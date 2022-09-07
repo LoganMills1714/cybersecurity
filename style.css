@@ -59,7 +59,7 @@ border: 3px solid #ffffff;
     border-top: 3px solid #fff;
     display: none;
     position: absolute;
-    background-color: #ffffffff;
+    background-color: #707070;
     min-width: 160px;
     z-index: 1;
 }
