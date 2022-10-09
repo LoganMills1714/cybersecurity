@@ -76,7 +76,8 @@ border: 3px solid #ffffff;
 
 .dropdown-content a:hover {
     background-color: #333;
-    border: 3px solid #fffffff}
+    border: 3px solid #ffffff;
+}
 
 .dropdown:hover .dropdown-content {
     display: block;
